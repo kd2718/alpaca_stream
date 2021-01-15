@@ -1,0 +1,4 @@
+name: alpaca_stream
+channels:
+  - defaults
+prefix: /home/koryd/miniconda3/envs/alpaca_stream
