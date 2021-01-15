@@ -1,17 +1,33 @@
 name: streamstocks
 channels:
+  - conda-forge
   - defaults
 dependencies:
-  - ca-certificates=2020.12.8=haa95532_0
-  - certifi=2020.12.5=py39haa95532_0
-  - openssl=1.1.1i=h2bbff1b_0
+  - backcall=0.2.0=pyh9f0ad1d_0
+  - backports=1.0=py_2
+  - backports.functools_lru_cache=1.6.1=py_0
+  - ca-certificates=2020.12.5=h5b45459_0
+  - certifi=2020.12.5=py39hcbf5309_1
+  - colorama=0.4.4=pyh9f0ad1d_0
+  - decorator=4.4.2=py_0
+  - ipython=7.19.0=py39haa95532_0
+  - ipython_genutils=0.2.0=py_1
+  - jedi=0.18.0=py39hcbf5309_2
+  - openssl=1.1.1i=h8ffe710_0
+  - parso=0.8.1=pyhd8ed1ab_0
+  - pickleshare=0.7.5=py_1003
   - pip=20.3.3=py39haa95532_0
+  - prompt-toolkit=3.0.10=pyha770c72_0
+  - pygments=2.7.3=pyhd8ed1ab_0
   - python=3.9.1=h6244533_2
+  - python_abi=3.9=1_cp39
   - setuptools=51.1.2=py39haa95532_4
   - sqlite=3.33.0=h2a8f88b_0
+  - traitlets=5.0.5=py_0
   - tzdata=2020d=h14c3975_0
   - vc=14.2=h21ff451_1
   - vs2015_runtime=14.27.29016=h5e58377_2
+  - wcwidth=0.2.5=pyh9f0ad1d_2
   - wheel=0.36.2=pyhd3eb1b0_0
   - wincertstore=0.2=py39h2bbff1b_0
   - zlib=1.2.11=h62dcd97_4

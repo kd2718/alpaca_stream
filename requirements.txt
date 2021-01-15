@@ -1,0 +1,28 @@
+alpaca-trade-api==0.51.0
+backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+backports.functools-lru-cache==1.6.1
+certifi==2020.12.5
+chardet==4.0.0
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+decorator==4.4.2
+idna==2.10
+ipython @ file:///C:/ci/ipython_1607355475512/work
+ipython-genutils==0.2.0
+jedi @ file:///D:/bld/jedi_1610147001629/work
+numpy==1.19.5
+pandas==1.2.0
+parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1607618318316/work
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1610127285153/work
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1607352093725/work
+python-dateutil==2.8.1
+python-dotenv==0.15.0
+pytz==2020.5
+requests==2.25.1
+six==1.15.0
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1602771532708/work
+urllib3==1.25.11
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
+websocket-client==0.57.0
+websockets==8.1
+wincertstore==0.2
